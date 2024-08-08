@@ -1,4 +1,4 @@
-# Classification-Email_Campaign_Effectiveness_Prediction-ML
+# Email_Campaign_Effectiveness_Prediction(Classification-Supervised) - ML
 
 ![image](https://github.com/VishalSinhaRoy/Classification-Email_Campaign_Effectiveness_Prediction-ML/assets/162811130/44ea6123-0e51-487f-baa9-610500fc365d)
 
